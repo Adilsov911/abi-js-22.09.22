@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#first{
+  padding: 1rem 3rem;
+  text-align: center;
+  font-size: 25px;
+  background-image: url(https://media.istockphoto.com/videos/red-and-blue-lights-police-beacon-on-a-black-background-police-light-video-id1348235160?s=640x640);
+  background-position: center;
+  background-size: cover;
+  font-weight: bold;
+ 
+}
+#first h1{
+  color: #fff;
+}
+#first p{
+  color: #fff;
+}
+#Users{
+  background: #ff002b;
+}
+.yazi{
+  color: rgb(228, 108, 108);
+  font-size: 15px;
+}
+.danger{
+  background-color: #c31432;
+  color: #fff;
+}
+.blue{
+  color: greenyellow;
+}
+.white{
+  color: #fff;
+}
